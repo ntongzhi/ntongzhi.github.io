@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tongzhi Niu (Tone, 牛通之)**.
 
-I am a Ph.D. candidate majoring in **Mechanical Engineering** at Huazhong University of Science and Technology and National University of Singapore (Joint Programe). Currently, I advised by [Prof. Bin Li](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Prof. Hao Wang, Victor](https://www.researchgate.net/profile/Zhezhuang-Xu).
+I am a Ph.D. candidate majoring in **Mechanical Engineering** at Huazhong University of Science and Technology and National University of Singapore (Joint Programe). Currently, I advised by [Prof. Bin Li](https://www.researchgate.net/profile/Zhezhuang) and [Prof. Hao Wang, Victor](https://blog.nus.edu.sg/mpewhao/).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tzniu[at]hust[dot]edu[dot]cn*
 
