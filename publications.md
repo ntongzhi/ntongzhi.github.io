@@ -8,12 +8,14 @@ title: Publications
 
 ## Journal Paper
 
-- Niu, Tongzhi, Zhiyu Xie, Jie Zhang, Lixin Tang, Bin Li, and Hao Wang. "A generalized well neural network for surface defect segmentation in Optical Communication Devices via Template-Testing comparison." Computers in Industry 151 (2023): 103978.
-- Niu, Tongzhi, Bin Li, Weifeng Li, Yuanhong Qiu, and Shuanlong Niu. "Positive-sample-based surface defect detection using memory-augmented adversarial autoencoders." IEEE/ASME Transactions on Mechatronics 27, no. 1 (2021): 46-57.
-- Niu, Tongzhi, Biao Chen, Qianhang Lyu, Bei Li, Wei Luo, Zhenrong Wang, and Bin Li. "Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation." Measurement 225 (2024): 113998.
-- Biao Chen, Tongzhi Niu†, Ruoqi Zhang, Hang Zhang, Yuchen Lin, Bin Li. "Feature matching driven background generalization neural networks for surface defect segmentation." Knowledge-Based Systems 287 (2024):111451.
-- Chen, Biao*, Tongzhi Niu*, Wenyong Yu, Ruoqi Zhang, Zhenrong Wang, and Bin Li. "A-Net: An A-shape Lightweight Neural Network for Real-time Surface Defect Segmentation." IEEE Transactions on Instrumentation and Measurement (2023).
-- Luo, Wei*, Tongzhi Niu*, Haiming Yao, Lixin Tang, Wenyong Yu, and Bin Li. "Unsupervised Defect Segmentation Via Forgetting-Inputting-Based Feature Fusion and Multiple Hierarchical Feature Difference." IEEE Sensors Journal (2023). 
+- **Tongzhi Niu**, Zhiyu Xie, Jie Zhang, Lixin Tang, Bin Li, and Hao Wang. "A generalized well neural network for surface defect segmentation in Optical Communication Devices via Template-Testing comparison." Computers in Industry 151 (2023): 103978.
+- **Tongzhi Niu**, Bin Li, Weifeng Li, Yuanhong Qiu, and Shuanlong Niu. "Positive-sample-based surface defect detection using memory-augmented adversarial autoencoders." IEEE/ASME Transactions on Mechatronics 27, no. 1 (2021): 46-57.
+- **Tongzhi Niu**, Biao Chen, Qianhang Lyu, Bei Li, Wei Luo, Zhenrong Wang, and Bin Li. "Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation." Measurement 225 (2024): 113998.
+- Biao Chen, **Tongzhi Niu**†, Ruoqi Zhang, Hang Zhang, Yuchen Lin, Bin Li. "Feature matching driven background generalization neural networks for surface defect segmentation." Knowledge-Based Systems 287 (2024):111451.
+- Chen, Biao*, **Tongzhi Niu***, Wenyong Yu, Ruoqi Zhang, Zhenrong Wang, and Bin Li. "A-Net: An A-shape Lightweight Neural Network for Real-time Surface Defect Segmentation." IEEE Transactions on Instrumentation and Measurement (2023).
+- Luo, Wei*, **Tongzhi Niu***, Haiming Yao, Lixin Tang, Wenyong Yu, and Bin Li. "Unsupervised Defect Segmentation Via Forgetting-Inputting-Based Feature Fusion and Multiple Hierarchical Feature Difference." IEEE Sensors Journal (2023).
+- Dai, Jiahua, Peiqing Liu, Qiulin Qu, Ling Li, and **Tongzhi Niu**. "Aerodynamic optimization of high-lift devices using a 2D-to-3D optimization method based on deep reinforcement learning and transfer learning." Aerospace Science and Technology 121 (2022): 107348.
+- Dai, Jiahua, Peiqing Liu, Ling Li, Qiulin Qu, and **Tongzhi Niu**. "Multi-Disciplinary and Multi-Objective Optimization Method Based on Machine Learning." AIAA Journal (2023): 1-17.
 
   <br>
 
