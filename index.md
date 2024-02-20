@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tongzhi Niu (Tone, 牛通之)**.
 
-I am a Ph.D. candidate majoring in **Mechanical Engineering** at Huazhong University of Science and Technology and National University of Singapore (Joint Program). Currently, I advised by [Prof. Li Bin](http://english.mse.hust.edu.cn/info/1081/2036.htm) and [Prof. Victor, Wang Hao](https://blog.nus.edu.sg/mpewhao/).
+I am a Ph.D. candidate majoring in **Mechanical Engineering** at Huazhong University of Science and Technology and National University of Singapore (Joint Ph.D.). Currently, I am fortunate to be advised by [Prof. Li Bin](http://english.mse.hust.edu.cn/info/1081/2036.htm) and [Prof. Victor, Wang Hao](https://blog.nus.edu.sg/mpewhao/). 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tzniu[at]hust[dot]edu[dot]cn*
 
@@ -16,10 +16,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2024 - Sep 2025：**Cambridge University (MPhil)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2018 - Sep 2024:** Huazhong University of Science and Technology (BSc)
+- **Sep 2014 - June 2018:** Wuhan University of Technology (BEng)
+- **Jan 2023 - Jan 2024:** National University of Singapore (Joint Ph.D.)
 
 <br>
 
@@ -27,13 +26,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- Intelligent Manufacturing
+- Surface Defect Detection
+- Deep Learning
+- Computer Vision
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research on some special problems in defect inspection, such as **imbalance sample distribution**, **inconsisten labels** and **domain generalization**.
 
 <br>
 
@@ -41,14 +39,13 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **[New] I am looking for Postdoctoral to strat in [Sep 2024]. Contact me if you are interested!**
+
+- **Jan 2024：**A paper accepted by the Knowledge Based Systems!.
+- **Dec 2023：**A paper accepted by the Measurement!
+- **Dec 2023：**A paper accepted by the IEEE Transactions on Instrumentation and Measurement!.
+- **Jul 2023：**A paper accepted by the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023), see you in Singapore!
+- **Jun 2023：**A paper accepted by the Computers in Industry
 
 <br>
 
