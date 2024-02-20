@@ -16,6 +16,10 @@ title: Publications
 - Luo, Wei*, **Tongzhi Niu***, Haiming Yao, Lixin Tang, Wenyong Yu, and Bin Li. "Unsupervised Defect Segmentation Via Forgetting-Inputting-Based Feature Fusion and Multiple Hierarchical Feature Difference." IEEE Sensors Journal (2023).
 - Dai, Jiahua, Peiqing Liu, Qiulin Qu, Ling Li, and **Tongzhi Niu**. "Aerodynamic optimization of high-lift devices using a 2D-to-3D optimization method based on deep reinforcement learning and transfer learning." Aerospace Science and Technology 121 (2022): 107348.
 - Dai, Jiahua, Peiqing Liu, Ling Li, Qiulin Qu, and **Tongzhi Niu**. "Multi-Disciplinary and Multi-Objective Optimization Method Based on Machine Learning." AIAA Journal (2023): 1-17.
+- Li, Weifeng, Bin Li, Shuanlong Niu, Zhenrong Wang, Baohui Liu, and Tongzhi Niu. "Selecting informative data for defect segmentation from imbalanced datasets via active learning." Advanced Engineering Informatics 56 (2023): 101933.
+- Li, Weifeng, Bin Li, Shuanlong Niu, Zhenrong Wang, Miao Wang, and Tongzhi Niu. "LSA-Net: Location and shape attention network for automatic surface defect segmentation." Journal of Manufacturing Processes 99 (2023): 65-77.
+- Niu, Shuanlong, Yaru Peng, Bin Li, Yuanhong Qiu, Tongzhi Niu, and Weifeng Li. "A novel deep learning motivated data augmentation system based on defect segmentation requirements." Journal of Intelligent Manufacturing (2023): 1-15
+- Qi, Wenqian, Shouqian Sun, Tongzhi Niu, and Dongwei Zhao. "Research and prospects of virtual reality systems applying exoskeleton technology." Universal Access in the Information Society (2022): 1-22.
 
   <br>
 
