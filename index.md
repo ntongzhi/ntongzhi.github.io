@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://ntongzhi.github.io/tongzhi.JPG" class="floatpic" width="360" height="480">
+<img src="https://ntongzhi.github.io/tongzhi.JPG" class="floatpic" width="250" height="300">
 
 Here is **Tongzhi Niu (Tone, 牛通之)**.
 
