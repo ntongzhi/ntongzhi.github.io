@@ -45,8 +45,4 @@ My current research on some special problems in defect inspection, such as **imb
 - **Dec 2023：**A paper accepted by the Measurement!
 - **Dec 2023：**A paper accepted by the IEEE Transactions on Instrumentation and Measurement!.
 - **Jul 2023：**A paper accepted by the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023), see you in Singapore!
-- **Jun 2023：**A paper accepted by the Computers in Industry
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- **Jun 2023：**A paper accepted by the Computers in Industry!
