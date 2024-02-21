@@ -33,9 +33,8 @@ title: Publications
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
+- **Tongzhi Niu**, Biao Chen, Lixin Tang, and Bin Li. "Positive-sample-based Domain Generalization Neural Networks for Surface Defect Segmentation." IEEE Transactions on Industry Informatics.
+- **Tongzhi Niu**, Zhenrong Wang, Weifeng Li, Kai Li, Guiyin Xu, and Bin Li. "Learning Trustworthy Model from Noisy Labels based on Rough Set for Surface Defect Detection. "Applied soft computing.
 
   <br>
 
