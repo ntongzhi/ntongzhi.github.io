@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Scholarships
 
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only [12 undergraduates](https://aaai-uc.github.io/) are selected around the world
@@ -44,10 +42,6 @@ title: Awards
 
 ## Services
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- [April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University](https://mp.weixin.qq.com/s?__biz=MjM5ODIyNzIyMg==&mid=2652762645&idx=1&sn=3d58cdfb0fb26db7a2b82aee9726b172&chksm=bd24ae6c8a53277a8910f7336758100ec4d4c4f19b8de74c4ccebc9a95ace364c0faf2b2c0b3&scene=27)
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- Reviewer for IEEE Transaction on Neural Networks and Learning Systems, Advaced Engineering Informatics, Computers & Industrial Engineering, International Journal of Machine Learning and Cybernetics, Knowledge-based Systems, and Measurement.
+- IEEE Student Membership
+- IECON 2023 Session chair
