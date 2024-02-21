@@ -4,11 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
-
 ## Journal Paper
 
-- **Tongzhi Niu**, Zhiyu Xie, Jie Zhang, Lixin Tang, Bin Li, and Hao Wang. "[A generalized well neural network for surface defect segmentation in Optical Communication Devices via Template-Testing comparison](https://ntongzhi.github.io/publications/Match.pdf)." Computers in Industry 151 (2023): 103978.
+- **Tongzhi Niu**, Zhiyu Xie, Jie Zhang, Lixin Tang, Bin Li, and Hao Wang. "[A generalized well neural network for surface defect segmentation in Optical Communication Devices via Template-Testing comparison](https://ntongzhi.github.io/publication/GWNet.pdf)." Computers in Industry 151 (2023): 103978.
 - **Tongzhi Niu**, Bin Li, Weifeng Li, Yuanhong Qiu, and Shuanlong Niu. "Positive-sample-based surface defect detection using memory-augmented adversarial autoencoders." IEEE/ASME Transactions on Mechatronics 27, no. 1 (2021): 46-57.
 - **Tongzhi Niu**, Biao Chen, Qianhang Lyu, Bei Li, Wei Luo, Zhenrong Wang, and Bin Li. "Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation." Measurement 225 (2024): 113998.
 - Biao Chen, **Tongzhi Niu**†, Ruoqi Zhang, Hang Zhang, Yuchen Lin, Bin Li. "Feature matching driven background generalization neural networks for surface defect segmentation." Knowledge-Based Systems 287 (2024):111451.
