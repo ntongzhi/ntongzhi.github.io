@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://ntongzhi.github.io/tongzhi.JPG" class="floatpic" width="250" height="300">
 
-Here is **Tongzhi Niu (Tone, 牛通之)**.
+Here is **Tongzhi Niu (牛通之)**.
 
 I am a Ph.D. candidate majoring in **Mechanical Engineering** at Huazhong University of Science and Technology and National University of Singapore (Joint Ph.D.). Currently, I am fortunate to be advised by [Prof. Li Bin](http://english.mse.hust.edu.cn/info/1081/2036.htm) and [Prof. Victor, Wang Hao](https://blog.nus.edu.sg/mpewhao/). 
 
