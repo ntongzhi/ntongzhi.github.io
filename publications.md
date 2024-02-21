@@ -33,8 +33,8 @@ title: Publications
 
 ## Working Manuscript
 
-- **Tongzhi Niu**, Biao Chen, Lixin Tang, and Bin Li. "Positive-sample-based Domain Generalization Neural Networks for Surface Defect Segmentation." IEEE Transactions on Industry Informatics.
-- **Tongzhi Niu**, Zhenrong Wang, Weifeng Li, Kai Li, Guiyin Xu, and Bin Li. "Learning Trustworthy Model from Noisy Labels based on Rough Set for Surface Defect Detection. "Applied soft computing.
+- **Tongzhi Niu**, Biao Chen, Lixin Tang, and Bin Li. "Positive-sample-based Domain Generalization Neural Networks for Surface Defect Segmentation." 
+- **Tongzhi Niu**, Zhenrong Wang, Weifeng Li, Kai Li, Guiyin Xu, and Bin Li. "Learning Trustworthy Model from Noisy Labels based on Rough Set for Surface Defect Detection."
 
   <br>
 
