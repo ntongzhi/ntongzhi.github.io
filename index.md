@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Postdoctoral to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2018 - Sep 2024:** Huazhong University of Science and Technology (Ph.D.)
 - **Sep 2014 - June 2018:** Wuhan University of Technology (BEng)
