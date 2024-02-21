@@ -26,7 +26,7 @@ title: Publications
 
 ## Conference Paper
 
-- **Tongzhi Niu**, Biao Chen, Zhenrong Wang, Ruoqi Zhang, and Bin Li. "Background-Adaptive Surface Defect Detection Neural Networks via Positive Samples." In IECON 2023-49th Annual Conference of the IEEE Industrial Electronics Society, pp. 01-09. IEEE, 2023. (Session chair)
+- **Tongzhi Niu**, Biao Chen, Zhenrong Wang, Ruoqi Zhang, and Bin Li. "[Background-Adaptive Surface Defect Detection Neural Networks via Positive Samples](https://ntongzhi.github.io/publication/BANet.pdf)." In IECON 2023-49th Annual Conference of the IEEE Industrial Electronics Society, pp. 01-09. IEEE, 2023. (Session chair)
 - Niu Shuanlong, Hui Lin, **Tongzhi Niu**, Bin Li, and Xinggang Wang. "DefectGAN: Weakly-supervised defect detection using generative adversarial network." In 2019 IEEE 15th international conference on automation science and engineering (CASE), pp. 127-132. IEEE, 2019.
 
   <br>
