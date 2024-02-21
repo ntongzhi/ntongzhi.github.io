@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2018 - Sep 2024:** Huazhong University of Science and Technology (BSc)
+- **Sep 2018 - Sep 2024:** Huazhong University of Science and Technology (Ph.D.)
 - **Sep 2014 - June 2018:** Wuhan University of Technology (BEng)
 - **Jan 2023 - Jan 2024:** National University of Singapore (Joint Ph.D.)
 
