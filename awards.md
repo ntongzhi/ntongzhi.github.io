@@ -19,15 +19,12 @@ title: Awards
 
 ## Competitions (Selected)
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：**<font color='red'>Champion</font>** of 100-meter Freestyle Swimming Competition of Fuzhou University 2022<br>
+- 2018：The National First Prize in the National College Students' Mechanical Product Digital Design Competition (National Level, Second Advisor).
+- 2017：The Third Prize in the 10th National College Students' Energy Conservation and Emission Reduction Social Practice and Science & Technology Competition (National Level, Team Leader).
+- 2016: The Third Prize in the Innovation Application Category at the China (International) Sensor Innovation and Entrepreneurship Competition (National Level, Team Leader).
+- 2016: The National College Students' Innovation and Entrepreneurship Training Program (National Level, Project Leader).
+- 2020：The Bronze Prize at the 6th China International "Internet+" College Students' Innovation and Entrepreneurship Competition in Hubei Province (Provincial Level, Team Leader).
+- 2017: the First Prize in the 5th National College Students' Engineering Training Comprehensive Ability Competition in Hubei Province (Provincial Level).
 
 ## Honors
 
