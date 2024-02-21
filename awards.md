@@ -5,7 +5,7 @@ title: Awards
 ---
 
 ## Funding
-2021：Technical Innovation Fund from the Innovation Research Institute of Huazhong University of Science and Technology 
+- 2021：Technical Innovation Fund from the Innovation Research Institute of Huazhong University of Science and Technology 
 
 
 ## Scholarships
