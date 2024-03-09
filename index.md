@@ -41,8 +41,9 @@ My current research on some special problems in defect inspection, such as **imb
 
 - **[New] I am looking for Postdoctoral to strat in [Sep 2024]. Contact me if you are interested!**
 
-- **Jan 2024：**A paper accepted by the Knowledge Based Systems!.
+- **Mar 2024：**A paper accepted by the Advanced Engineering Informatics!
+- **Jan 2024：**A paper accepted by the Knowledge Based Systems!
 - **Dec 2023：**A paper accepted by the Measurement!
-- **Dec 2023：**A paper accepted by the IEEE Transactions on Instrumentation and Measurement!.
+- **Dec 2023：**A paper accepted by the IEEE Transactions on Instrumentation and Measurement!
 - **Jul 2023：**A paper accepted by the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023), see you in Singapore!
 - **Jun 2023：**A paper accepted by the Computers in Industry!
