@@ -39,8 +39,9 @@ My current research on some special problems in defect inspection, such as **imb
 
 ## News and Updates
 
-- **[New] I am looking for Postdoctoral to strat in [Sep 2024]. Contact me if you are interested!**
+- **[New] I am looking for Postdoctoral to strat in [Jan 2025]. Contact me if you are interested!**
 
+- **Aug 2024：**A paper accepted by the Applied Soft Computing!
 - **Mar 2024：**A paper accepted by the Advanced Engineering Informatics!
 - **Jan 2024：**A paper accepted by the Knowledge Based Systems!
 - **Dec 2023：**A paper accepted by the Measurement!
