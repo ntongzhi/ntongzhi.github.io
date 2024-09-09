@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Intelligent Manufacturing
+- Industry Machine Vision
 - Surface Defect Detection
 - Deep Learning
 - Computer Vision
