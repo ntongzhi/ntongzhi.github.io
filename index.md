@@ -29,7 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Deep Learning
 - Computer Vision
 
-My current research on some special problems in defect inspection, such as **imbalance sample distribution**, **inconsisten labels** and **domain generalization**.
+My current research on some special problems in defect inspection, such as **imbalance sample distribution**, **Noise labels** and **domain generalization**.
 
 <br>
 
