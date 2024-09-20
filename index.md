@@ -14,10 +14,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for Postdoctoral to start in Jan 2025. Contact me if you have any leads!**
-
-- **Sep 2018 - Sep 2024:** Huazhong University of Science and Technology (Ph.D.)
-- **Sep 2014 - June 2018:** Wuhan University of Technology (BEng)
+- **Sep 2018 - Dec 2024:** Huazhong University of Science and Technology (Ph.D.)
+- **Sep 2014 - Jun 2018:** Wuhan University of Technology (BEng)
 - **Jan 2023 - Jan 2024:** National University of Singapore (Joint Ph.D.)
 
 <br>
@@ -38,8 +36,6 @@ My current research on some special problems in defect inspection, such as **imb
 ---
 
 ## News and Updates
-
-- **[New] I am looking for Postdoctoral to strat in [Jan 2025]. Contact me if you are interested!**
 
 - **Aug 2024：**A paper accepted by the Applied Soft Computing!
 - **Mar 2024：**A paper accepted by the Advanced Engineering Informatics!
